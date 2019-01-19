@@ -1,5 +1,3 @@
 # DS 5500 Assignment: Introduction to HTML/CSS/JS & Local Hosting
 
-This repository is your starting point for the assignment.
-
-Link to GitHub pages website: https://jayaraman-sr.github.io/
+Link to my GitHub hosted web page: https://jayaraman-sr.github.io/
